@@ -1,12 +1,12 @@
 ## OOP
 
-#Understanding the Project Requirements
-    #Choosing the Technology stack
+# Understanding the Project Requirements
+    # Choosing the Technology stack
        Frontend - React
        Backend - Spring Boot
 
-#System Initialization and Conguriation
-    #Develop an interface (GUI) that allows user to configure the system before it starts.
+# System Initialization and Conguriation
+    # Develop an interface (GUI) that allows user to configure the system before it starts.
         These setting could include.
             Total Number of Tickets(totalTickets)
             Ticket Realease Rate(ticketReleaseRate)
